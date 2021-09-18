@@ -1,0 +1,21 @@
+{
+    "name": "hls_diy",
+    "productName": "hls_diy",
+    "version": "0.0.1",
+    "author": "andythebreaker <pokibear03@gmail.com>",
+    "description": "hls_diy",
+    "license": "MIT",
+    "type": "commonjs",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/andythebreaker/langLive_chat_clone.git"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "puppeteer": "~10.2.0",
+        "puppeteer-core": "~10.2.0"
+    },
+    "devDependencies": {}
+}
