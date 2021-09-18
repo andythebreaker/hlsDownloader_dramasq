@@ -6,6 +6,9 @@ tags: github
 
 # hlsDownloader_dramasq
 
+[![hackmd-github-sync-badge](https://hackmd.io/PxnC87G5QNmp2_mxRwzw-g/badge)](https://hackmd.io/PxnC87G5QNmp2_mxRwzw-g)
+
+
 ## contents
 
 [TOC]
